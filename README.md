@@ -73,6 +73,9 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase%20-%231572B6.svg?style=for-the-badge&logo=firebase&logoColor=white&color=FFA000)
+    ![AWS](https://img.shields.io/badge/AWS%20-%231572B6.svg?style=for-the-badge&logo=aws&logoColor=white&color=FFA000)
+
     
 <br>
 
