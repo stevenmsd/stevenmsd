@@ -18,10 +18,8 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Currently learning web and mobile development on my own
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://utneduec-my.sharepoint.com/:b:/g/personal/simontalvos_utn_edu_ec/Ee_nJOSZ7kVJny3k1Q-Q10wB4z8ApiQ-yDZZQ7aHhqUKfQ?e=yTDWJR)
 
 <br><br>
 
@@ -34,9 +32,8 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow)
 
 <br>   
     
