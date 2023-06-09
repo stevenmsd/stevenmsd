@@ -62,9 +62,9 @@
    ![MySQL](https://img.shields.io/badge/MySQL%20-%DEAB1D.svg?style=for-the-badge&logo=mysql&logoColor=white&color=ECAB1D)
 
   - **NoSQL**:
-  
+
    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-   ![React js ](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white)
+   ![Firebase](https://img.shields.io/badge/Firebase%20-%231572B6.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
    
 
