@@ -35,6 +35,7 @@
 
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![Dart](https://img.shields.io/badge/Dart%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <br>   
     
