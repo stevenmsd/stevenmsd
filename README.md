@@ -47,7 +47,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![React js ](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white)
-   ![React Native](https://img.shields.io/badge/ReactNative%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white)
+   ![React Native](https://img.shields.io/badge/React Native%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white)
+   ![Angular](https://img.shields.io/badge/Angular%20-%23E34F26.svg?style=for-the-badge&logo=angular&logoColor=white)
 
    
 
