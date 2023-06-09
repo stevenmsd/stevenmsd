@@ -32,10 +32,9 @@
 
 - **Languages**:
     
-
+    ![Java](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![Dart](https://img.shields.io/badge/Dart%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black)
 
 <br>   
@@ -87,6 +86,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-FCC624?style=for-the-badge&logo=visual-studio&logoColor=black&color=b079f1)
     ![Eclipse](https://img.shields.io/badge/Eclipse-%FCC624?style=for-the-badge&logo=eclipse&logoColor=white&color=2C2255)
+    ![Netbeans](https://img.shields.io/badge/Netbeans-%FCC624?style=for-the-badge&logo=netbeans&logoColor=white&color=2C2255)
 
 <br>
 
