@@ -56,13 +56,14 @@
 
 - **Database Management**:
 
+  - **SQL**:
 
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQl%20-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![MySQL](https://img.shields.io/badge/MySQL%20-%DEAB1D.svg?style=for-the-badge&logo=mysql&logoColor=white&color=ECAB1D)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+  - **NoSQL**:
+   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![React js ](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white)
-   ![React Native](https://img.shields.io/badge/ReactNative%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white)
-   ![Angular](https://img.shields.io/badge/Angular%20-%23E34F26.svg?style=for-the-badge&logo=Angular&logoColor=white)
 
    
 
