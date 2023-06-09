@@ -63,8 +63,8 @@
 
   - **NoSQL**:
 
-   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-   ![Firebase](https://img.shields.io/badge/Firebase%20-%231572B6.svg?style=for-the-badge&logo=firebase&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=3FA073)
+   ![Firebase](https://img.shields.io/badge/Firebase%20-%231572B6.svg?style=for-the-badge&logo=firebase&logoColor=white&color=FFA000)
 
    
 
