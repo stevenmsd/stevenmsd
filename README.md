@@ -134,8 +134,8 @@
 <ul>
 
 <li>
-<a href="hhttps://www.linkedin.com/in/steevenmontalvo/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:Steeven+Montalvo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/steevenmontalvo" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Steeven Montalvo-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
 
@@ -143,7 +143,7 @@
 
 <li>
 <a href="https://twitter.com/SteevenMontalvo" target="_blank">
-<img src="https://img.shields.io/badge/twitter:Steeven+Montalvo-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  Steeven Montalvo-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
 </a>
 </li>
 
@@ -151,7 +151,7 @@
 
 <li>
 <a href="mailto:estywen@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:Steeven+Montalvo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Steeven Montalvo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
 </a>
 </li>
 	
