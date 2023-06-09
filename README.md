@@ -86,6 +86,7 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-FCC624?style=for-the-badge&logo=visual-studio&logoColor=black&color=b079f1)
+    ![Eclipse](https://img.shields.io/badge/Eclipse-%FCC624?style=for-the-badge&logo=eclipse&logoColor=black&color=b079f1)
 
 <br>
 
