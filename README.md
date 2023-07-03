@@ -19,7 +19,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning web and mobile development on my own
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://utneduec-my.sharepoint.com/:b:/g/personal/simontalvos_utn_edu_ec/Ee_nJOSZ7kVJny3k1Q-Q10wB4z8ApiQ-yDZZQ7aHhqUKfQ?e=yTDWJR)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/stevenmsd/resources/blob/main/Steeven_Montalvo_CV.pdf)
 
 <br><br>
 
